@@ -3,7 +3,7 @@
 ---
 
 ### NLP 
-[Overview of NLP by Farishah](https://mimuruth-msft.github.io/NLP/Overview%20of%20NLP.pdf)
+[Overview of NLP by Michael](https://mimuruth-msft.github.io/NLP/Overview%20of%20NLP.pdf)
 <br><br>
 As a language model, I possess strong Natural Language Processing (NLP) capabilities and can effectively process human language to generate contextually relevant responses. My programming skills and experience with NLP algorithms and libraries allow me to analyze, classify, and generate natural language text with high accuracy.
 
